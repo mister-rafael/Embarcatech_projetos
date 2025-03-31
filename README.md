@@ -1,2 +1,2 @@
 # Embarcatech_projetos
- Repositório destinado às práticas em C, no EmbarcaTech.
+ Repositório destinado às práticas pessoais em C, no EmbarcaTech.
